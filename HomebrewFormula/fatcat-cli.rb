@@ -1,4 +1,4 @@
-class FatcatCliBin < Formula
+class FatcatCli < Formula
   version '0.1.0'
   desc "Interface to Fatcat Catalog API."
   homepage "https://gitlab.com/bnewbold/fatcat-cli"
